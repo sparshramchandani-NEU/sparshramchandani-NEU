@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a DevOps professional and Software Engineer wi
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sparsh-ramchandani/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sparshramchandani.me/)
 
 ## 📈 Github Stats
 
@@ -53,3 +53,11 @@ Welcome to my GitHub profile! I'm a DevOps professional and Software Engineer wi
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=sparshramchandani-NEU&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sparshramchandani-NEU/sparshramchandani-NEU/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sparshramchandani-NEU/sparshramchandani-NEU/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sparshramchandani-NEU/sparshramchandani-NEU/output/github-contribution-grid-snake.svg">
+</picture>
