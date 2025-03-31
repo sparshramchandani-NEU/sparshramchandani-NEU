@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a DevOps professional and Software Engineer wi
 - 🌱 Always learning and staying updated with the latest in software engineering
 - 👯 Looking to collaborate on innovative projects that challenge the status quo
 - 💬 Ask me about DevOps, cloud computing, or software development
-- 📫 Reach me at: ramchandanisparshis@gmail.com
+- 📫 Reach me at: sparshghanshyamdasramchandani@gmail.com
 - ⚡ Fun fact: I love optimizing processes, both in code and in real life!
 
 ## 🛠️ Skills
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a DevOps professional and Software Engineer wi
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sparsh-ramchandani/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sparshramchandani.me/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sparsh-ramchandani-portfolio.vercel.app/)
 
 ## 📈 Github Stats
 
